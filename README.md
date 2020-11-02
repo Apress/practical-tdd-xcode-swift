@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Practical Test-Driven Development with Xcode and Swift*](https://rd.springer.com/video/10.1007/%isbn%) by Alex Tamoykin (Apress, 2020).
+This repository accompanies [*Practical Test-Driven Development with Xcode and Swift*](https://rd.springer.com/video/10.1007/978-1-4842-6667-0) by Alex Tamoykin (Apress, 2020).
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484266670.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
